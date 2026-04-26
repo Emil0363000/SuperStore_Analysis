@@ -13,7 +13,7 @@ Being able to answer these questions through data analysis can help to guide bus
 ## Technical stack 
 
   - Raw dataset from Kaggle: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
-  - ETL: Python (Data exploration & data cleaning) & KNIME (
+  - ETL: Python & KNIME
   - Power Query
   - PowerBI
 
